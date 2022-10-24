@@ -1,0 +1,22 @@
+ 1066  pip --version
+ 1067  python --version
+ 1068  pip -V
+ 1069  sudo apt-get install python3-pip
+ 1070  pip -V
+ 1071  pip install tk
+ 1073  python -m tkinter
+ 1074  sudo apt-get install python-pip
+ 1075  pip install tk
+ 1076  sudo apt-get install python3-pip
+ 1077  pip install tk
+ 1081  pip install PIL
+ 1082  pip install pillow
+ 1084  pip install numpy
+ 1085  pip install cv2
+ 1086  pip install cv
+ 1087  pip install matplotlib
+ 1088  pip install imutils
+ 1091  pip install Pillow
+ 1093  pip install opencv-contrib-python
+ 1095  sudo apt-get install python3-tk
+ 1099  sudo apt-get install python3-pil python3-pil.imagetk
